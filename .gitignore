@@ -1,0 +1,24 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+
+# IDEA / Java / Gradle
+.idea/
+*.iml
+.gradle/
+out/
+
+*
+!.gitignore
+!LICENSE
+!README.md
+
+!src/
+!src/main/
+!src/main/groovy/
+!src/main/groovy/ru/
+!src/main/groovy/ru/nerilov/
+!src/main/groovy/ru/nerilov/openapi/
+!src/main/groovy/ru/nerilov/openapi/**
