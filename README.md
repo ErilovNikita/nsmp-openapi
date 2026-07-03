@@ -2,7 +2,7 @@
 > Генерирует OpenAPI документацию для пакетного Groovy-модуля Naumen Service Desk.
 
 <p align="center">
-  <img src="./docs/public/logo.png" alt="NSMP Ant App Template logo" width="512" height="512">
+  <img src="./docs/public/logo.png" width="512" height="512">
 </p>
 
 Документация описывается небольшими docs-классами:
